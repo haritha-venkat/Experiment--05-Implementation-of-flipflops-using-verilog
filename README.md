@@ -163,39 +163,49 @@ nand (Q,A,Qbar);
 nand (Qbar,B,Q);
 endmodule
 ```
-RTL LOGIC FOR FLIPFLOPS
-SR FLIP FLOP:
+## RTL LOGIC FOR FLIPFLOPS
+## SR FLIP FLOP:
+
 ![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/4154d721-2812-4dde-b4b0-47bcb4b3f98c)
 
-D FLIP FLOP:
-![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/36d4ea3f-1694-41c7-a665-1633ee357a38)
+## D FLIP FLOP:
+
+![i mage](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/36d4ea3f-1694-41c7-a665-1633ee357a38)
 
 
-JK FLIP FLOP:
+## JK FLIP FLOP:
+
 ![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/9301de2c-f811-450b-ba0b-711ed8fe1378)
 
 
-T FLIP FLOP:
+## T FLIP FLOP:
+
 ![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/796aae62-66ac-4088-a3c1-39dc37c22de5)
 
 
-TIMING DIGRAMS FOR FLIP FLOPS
-SR FLIP FLOP:
+## TIMING DIGRAMS FOR FLIP FLOPS
+
+## SR FLIP FLOP:
+
 ![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/ef290091-b209-4a70-8491-2dc96f320a3b)
 
 
-D FLIP FLOP:
+## D FLIP FLOP:
+
 ![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/cb425ea5-7a42-404d-9179-2864512565f8)
 
 
-JK FLIP FLOP:
+## JK FLIP FLOP:
+
 ![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/4d6f5351-6f5d-47c0-8780-0cb390fb825d)
 
 
-T FLIP FLOP:
+## T FLIP FLOP:
+
 ![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/ef526646-167d-498d-9cd3-7d26e2eff2f7)
 
 
 RESULTS :
+
 All the flipflops are implementde using verilog and their functionality has been validated using their functional tables.
 
