@@ -178,43 +178,45 @@ endmodule
 ## RTL LOGIC FOR FLIPFLOPS
 ## SR FLIP FLOP:
 
-![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/4154d721-2812-4dde-b4b0-47bcb4b3f98c)
+![Screenshot 2023-06-09 191350](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/7932cf4a-ec9c-4df8-a42b-96cc7e7e0489)
 
 ## D FLIP FLOP:
 
-![i mage](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/36d4ea3f-1694-41c7-a665-1633ee357a38)
+![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/16c3c7bc-bbaf-4ec4-a08f-04b82c1372d4)
 
 
 ## JK FLIP FLOP:
 
-![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/9301de2c-f811-450b-ba0b-711ed8fe1378)
+![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/a886d372-af03-4ece-95ab-fd68b872263e)
+
 
 
 ## T FLIP FLOP:
 
-![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/796aae62-66ac-4088-a3c1-39dc37c22de5)
+![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/df02df9e-3432-4e68-b38a-788d2b78cd6a)
 
 
 ## TIMING DIGRAMS FOR FLIP FLOPS
 
 ## SR FLIP FLOP:
 
-![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/ef290091-b209-4a70-8491-2dc96f320a3b)
+![Screenshot 2023-06-09 191625](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/6aec4c4c-f38b-4ade-84b2-c2de4fd2a5d1)
 
 
 ## D FLIP FLOP:
 
-![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/cb425ea5-7a42-404d-9179-2864512565f8)
+![Screenshot 2023-06-09 191651](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/d3593203-66f0-44f8-96c8-407ff1f1c127)
+
 
 
 ## JK FLIP FLOP:
 
-![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/4d6f5351-6f5d-47c0-8780-0cb390fb825d)
+![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/5db06558-e820-49d3-926c-a302a8996b7b)
 
 
 ## T FLIP FLOP:
 
-![image](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/ef526646-167d-498d-9cd3-7d26e2eff2f7)
+![Screenshot 2023-06-09 191751](https://github.com/haritha-venkat/Experiment--05-Implementation-of-flipflops-using-verilog/assets/121285701/61937799-55dc-4976-b30f-4b3e1f1555d7)
 
 
 RESULTS :
